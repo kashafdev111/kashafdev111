@@ -1,6 +1,7 @@
 # Hi, I'm Kashaf Noor
 
 **Front-End Developer | Growing Full-Stack Experience**
+
 Computer Science graduate and MS student at GIFT University, based in Gujranwala, Pakistan.
 
 I build web apps with JavaScript and Firebase, and I'm looking for a **remote junior developer role** where I can work on real projects and keep growing.
